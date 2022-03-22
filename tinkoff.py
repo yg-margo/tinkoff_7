@@ -18,5 +18,5 @@ for i in range(0, len(ant)):
             break
         else:
             cnt += 1
-print(cnt)
+print(cnt % 1000000007)
 
